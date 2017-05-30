@@ -1,0 +1,1 @@
+[Bootstrap](http://getbootstrap.com/) and [JQuery](https://jquery.com/) is already included and ready to use in this project.
